@@ -1,0 +1,11 @@
+department,shift,target_uph,target_accuracy_pct,max_defect_rate_pct
+Inbound,Day,94.0,99.0,0.385
+Inbound,Night,84.6,99.0,0.385
+Pick,Day,118.8,99.0,0.33
+Pick,Night,106.9,99.0,0.33
+Pack,Day,138.6,99.0,0.275
+Pack,Night,124.7,99.0,0.275
+Ship,Day,108.9,99.0,0.308
+Ship,Night,98.0,99.0,0.308
+Returns,Day,69.3,99.0,0.99
+Returns,Night,62.4,99.0,0.99
