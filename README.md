@@ -12,6 +12,8 @@ simulated daily records across five departments and two shifts.
 
 > Independent educational project built on synthetic data. Not affiliated with
 > or endorsed by any company.
+>
+> **[Live demo](https://warehouse-ops-dashboard-imanimdavisb.streamlit.app/)** · [Screenshots](#screenshots)
 
 ## The finding
 
@@ -27,9 +29,6 @@ That is the kind of gap a weekly average hides and a target-relative view makes
 obvious. The dashboard is built to make it obvious.
 
 ## Screenshots
-
-<!-- Replace with real captures. A short GIF of the filters redrawing the
-     charts is the highest-value thing you can add here. -->
 
 | Attainment against goal | Scorecard |
 | --- | --- |
